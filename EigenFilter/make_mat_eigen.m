@@ -1,7 +1,7 @@
 % Assignment 3
 % Part A - Eigenfilter (low pass)
 % Name - Bipin Kumar
-% 170102021
+
 function [P,A,B]=make_mat_eigen(passband_freq,stopband_freq,M)
 % Computes 3 matrices P,A and B needed for 
 % calculating the coefficients of eigenfilter

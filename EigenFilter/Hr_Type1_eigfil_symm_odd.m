@@ -1,7 +1,7 @@
 % Assignment 3
 % Part A - Eigenfilter (low pass)
 % Name - Bipin Kumar
-% 170102021
+
 function [Hr,W] = Hr_Type1_eigfil_symm_odd(h)
 % Computes Amplitude response Hr(w) of a Type-1 LP FIR Eigenfilter
 % -----------------------------------------------------------

@@ -1,6 +1,6 @@
 % Assignment 3 -- Part B - Equiripple low pass filter  
 % Bipin Kumar
-% 170102021
+
 function [Hr,W] = Hr_Type1_symm_odd(h)
 % Computes Amplitude response Hr(W) of a Type-1(odd-symm)
 % LowPass FIR Equiripple filter

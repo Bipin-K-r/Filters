@@ -1,7 +1,7 @@
 % Assignment 3
 % Part A - Eigenfilter (low pass)
 % Name - Bipin Kumar
-% 170102021
+
 clc;
 close all;clear all;
 

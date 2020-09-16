@@ -1,6 +1,6 @@
 % Assignment 3 -- Part B - Equiripple low pass filter  
 % Bipin Kumar
-% 170102021
+
 clc;
 close all;clear all;
 
